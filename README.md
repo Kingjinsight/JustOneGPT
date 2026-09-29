@@ -6,7 +6,9 @@ I built this project as a hands-on way to understand the GPT architecture and tr
 
 This is a learning project, and there is still plenty to improve. The current model can continue Chinese text, but its output is often repetitive and incoherent.
 
-![Cover of 明朝那些事儿](assets/明朝那些事.png)
+<p align="center">
+  <img src="assets/明朝那些事.png" alt="Cover of 明朝那些事儿" width="360">
+</p>
 
 ## Example generation
 
